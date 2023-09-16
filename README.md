@@ -27,3 +27,8 @@ Run `main.py`
 python3 main.py
 ```
 
+## Step 4
+
+Check mongo results
+
+![img.png](images/img.png)
